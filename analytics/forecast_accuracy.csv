@@ -1,0 +1,5 @@
+Parameter,MAE,RMSE,Samples
+Temperature (°C),0.465,0.674,31
+Humidity (%),1.613,2.489,31
+Precipitation (mm),1.171,2.496,31
+Wind Speed (km/h),2.255,2.691,31
