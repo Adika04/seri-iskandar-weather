@@ -1,0 +1,1 @@
+Weather analytics graphs
